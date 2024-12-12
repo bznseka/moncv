@@ -1,0 +1,45 @@
+
+.contenu {
+    width: 500px;
+    margin: 50px auto;
+    /* background-color: aqua; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.presentation {
+    /* background-color: rgb(231, 143, 28); */
+    padding-bottom: 0px;
+    
+}
+
+.liste-presentation {
+    height: 150px;
+    list-style-type: none;
+    padding-left: 25%;
+    margin-top: 40px;
+    padding-top: 20px;
+       
+
+}
+.presentation img {
+    /* height: 150px; */
+    float: left;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+
+/* pour centrer les titres h1 et h2 */
+h1, h2 {
+    text-align: center;
+}
+/* pour colorier le hr */
+
+hr {
+    border-color: blue;
+}
+
+/* pour enlever tous les espaces entre le <p> */
+p {
+    margin: 0px;
+}
